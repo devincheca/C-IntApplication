@@ -4,6 +4,7 @@
 #include "stdafx.h"
 #include <iostream>
 #include <iomanip>
+#include "integersBetween.h"
 
 int arraySize(int start, int end);
 void print(int integers[], int length);
@@ -23,10 +24,10 @@ int main(int argc, char *argv[])
 	}
 	placeHolder = arraySize(inputOne, inputTwo) + 1;
 	const int arraySize = placeHolder;
-	int* integersBetween;
-	integersBetween = new int[arraySize];
-	readInInput(integersBetween, inputOne, inputTwo, arraySize);
-	print(integersBetween, arraySize);
+	int* integersBetweenInput;
+	integersBetweenInput = new int[arraySize];
+	integersBetween inputs{};
+	inputs.readAndOutputTotal(integersBetweenInput, inputOne, inputTwo);
 	int pause = 0;
 	std::cin >> pause;
 	if (pause != 0) {

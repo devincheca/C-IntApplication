@@ -1,4 +1,4 @@
 ﻿  NumberSelectionSort.cpp
-c:\users\pat\desktop\c++\numberselectionsort\numberselectionsort\numberselectionsort.cpp(51): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\pat\desktop\c++\numberselectionsort\numberselectionsort\numberselectionsort.cpp(52): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
   NumberSelectionSort.vcxproj -> C:\Users\Pat\Desktop\C++\NumberSelectionSort\Debug\NumberSelectionSort.exe
   NumberSelectionSort.vcxproj -> C:\Users\Pat\Desktop\C++\NumberSelectionSort\Debug\NumberSelectionSort.pdb (Partial PDB)
