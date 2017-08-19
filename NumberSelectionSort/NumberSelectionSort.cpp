@@ -41,23 +41,3 @@ int static arraySize(int start, int end) {
 	cardinality = end - start;
 	return cardinality;
 }
-
-static void print(int integers[], int length) {
-	int i = 0;
-	std::cout << "All Integers In Between (Inclusive)\n";
-	for (i = 0; i < length; i++) {
-		std::cout << integers[i];
-		std::cout << "  ";
-	}
-	int sum = length * (integers[0] + integers[length - 1]) * .5;
-	std::cout << "\nThe sum of the integers is: "
-		<< sum
-		<< "\nType 0 to end program execution.";
-}
-
-static void readInInput(int integers[], int start, int end, int length) {
-	int i = 0;
-	for (i = 0; i < length; i++) {
-		integers[i] = start + i;
-	}
-}
