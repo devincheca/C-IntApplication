@@ -1,0 +1,4 @@
+﻿  integersBetween.cpp
+c:\users\user\desktop\c++\cplusplus-intapplication\numberselectionsort\integersbetween.cpp(29): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  NumberSelectionSort.vcxproj -> C:\Users\User\Desktop\C++\CPlusPlus-IntApplication\x64\Debug\NumberSelectionSort.exe
+  NumberSelectionSort.vcxproj -> C:\Users\User\Desktop\C++\CPlusPlus-IntApplication\x64\Debug\NumberSelectionSort.pdb (Partial PDB)

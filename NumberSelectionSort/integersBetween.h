@@ -1,4 +1,10 @@
 #pragma once
+#ifndef INTEGERSBETWEEN_H
+#define INTEGERSBETWEEN_H
+#include "stdafx.h"
+#include <iostream>
+#include "integersBetween.h"
+using namespace std;
 class integersBetween
 {
 	int arraySize(int start, int end);
@@ -9,4 +15,4 @@ public:
 	~integersBetween();
 	void readAndOutputTotal(int integers[], int start, int end);
 };
-
+#endif // !INTEGERSBETWEEN_H

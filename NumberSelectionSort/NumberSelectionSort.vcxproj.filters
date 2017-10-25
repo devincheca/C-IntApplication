@@ -32,10 +32,10 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="NumberSelectionSort.cpp">
+    <ClCompile Include="integersBetween.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="integersBetween.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
