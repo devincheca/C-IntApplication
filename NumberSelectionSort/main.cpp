@@ -1,5 +1,4 @@
 // Devin Checa
-//#include "stdafx.h"
 #include <iostream>
 #include "integersBetween.h"
 using namespace std;
@@ -31,7 +30,6 @@ int main(int argc, char *argv[])
 	}
     return 0;
 }
-
 int static arraySize(int start, int end) {
 	int cardinality = 0;
 	cardinality = end - start;

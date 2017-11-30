@@ -1,7 +1,6 @@
 #pragma once
 #ifndef INTEGERSBETWEEN_H
 #define INTEGERSBETWEEN_H
-//#include "stdafx.h"
 #include <iostream>
 #include "integersBetween.h"
 using namespace std;

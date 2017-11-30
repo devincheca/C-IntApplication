@@ -1,4 +1,6 @@
-﻿  integersBetween.cpp
-c:\users\user\desktop\c++\cplusplus-intapplication\numberselectionsort\integersbetween.cpp(29): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  NumberSelectionSort.vcxproj -> C:\Users\User\Desktop\C++\CPlusPlus-IntApplication\x64\Debug\NumberSelectionSort.exe
-  NumberSelectionSort.vcxproj -> C:\Users\User\Desktop\C++\CPlusPlus-IntApplication\x64\Debug\NumberSelectionSort.pdb (Partial PDB)
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (NumberSelectionSort.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\users\user\desktop\projects\c++\cplusplus-intapplication\numberselectionsort\main.cpp(38): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  integersBetween.cpp
+c:\users\user\desktop\projects\c++\cplusplus-intapplication\numberselectionsort\integersbetween.cpp(41): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...

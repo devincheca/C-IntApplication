@@ -1,0 +1,4 @@
+﻿  integersBetween.cpp
+c:\users\user\desktop\projects\c++\cplusplus-intapplication\intapplication\integersbetween.cpp(28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  IntApplication.vcxproj -> C:\Users\User\Desktop\Projects\C++\CPlusPlus-IntApplication\IntApplication\Debug\IntApplication.exe
+  IntApplication.vcxproj -> C:\Users\User\Desktop\Projects\C++\CPlusPlus-IntApplication\IntApplication\Debug\IntApplication.pdb (Partial PDB)
