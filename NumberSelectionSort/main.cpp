@@ -1,6 +1,5 @@
-// NumberSelectionSort.cpp : Defines the entry point for the console application.
 // Devin Checa
-#include "stdafx.h"
+//#include "stdafx.h"
 #include <iostream>
 #include "integersBetween.h"
 using namespace std;
