@@ -2,7 +2,6 @@
 // Devin Checa
 #include "stdafx.h"
 #include <iostream>
-#include <iomanip>
 #include "integersBetween.h"
 using namespace std;
 int arraySize(int start, int end);
